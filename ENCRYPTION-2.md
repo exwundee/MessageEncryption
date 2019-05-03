@@ -1,8 +1,7 @@
 # MessageEncryption-2
 
 ## BASICS
-
-The BASICS learning tool will be using the following phrase: `Hello, friends!`  
+ 
 Every alphabetical character is shifted 4 characters to the RIGHT on the **US Keyboard Layout**.  
 After the letter is shifted, you have to get the number it comes from on the alphabet.  
 If the number is an odd number, shift it 2 characters to the LEFT.  
